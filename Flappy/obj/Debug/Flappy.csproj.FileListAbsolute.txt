@@ -1,0 +1,9 @@
+D:\Project DSC\Flappy\Flappy\bin\Debug\Flappy.exe.config
+D:\Project DSC\Flappy\Flappy\bin\Debug\Flappy.exe
+D:\Project DSC\Flappy\Flappy\bin\Debug\Flappy.pdb
+D:\Project DSC\Flappy\Flappy\obj\Debug\Flappy.csprojResolveAssemblyReference.cache
+D:\Project DSC\Flappy\Flappy\obj\Debug\Flappy.Form1.resources
+D:\Project DSC\Flappy\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+D:\Project DSC\Flappy\Flappy\obj\Debug\Flappy.csproj.GenerateResource.Cache
+D:\Project DSC\Flappy\Flappy\obj\Debug\Flappy.exe
+D:\Project DSC\Flappy\Flappy\obj\Debug\Flappy.pdb
